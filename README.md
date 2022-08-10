@@ -6,3 +6,6 @@ This code has shown me that you don't necessary have to code C# code to read a D
 
 ## <heading 3 - Homework> Homework_1
 Making making changes to the git commit ReadME file and pushing it to the gitHub remote repository.
+
+## <heading 1 - Development> Development
+Changing the Heading of the first headline to "Development" on the ReadME file, and commiting it and pushing it to the gitHub remote repository from the local repository. 
