@@ -1,0 +1,12 @@
+C:\Users\25251309\Desktop\CMPG323 Source Code\PhonebookCMPG323\bin\Debug\Phonelist.mdf
+C:\Users\25251309\Desktop\CMPG323 Source Code\PhonebookCMPG323\bin\Debug\Phonelist_log.ldf
+C:\Users\25251309\Desktop\CMPG323 Source Code\PhonebookCMPG323\bin\Debug\PhonebookCMPG323.exe.config
+C:\Users\25251309\Desktop\CMPG323 Source Code\PhonebookCMPG323\bin\Debug\PhonebookCMPG323.exe
+C:\Users\25251309\Desktop\CMPG323 Source Code\PhonebookCMPG323\bin\Debug\PhonebookCMPG323.pdb
+C:\Users\25251309\Desktop\CMPG323 Source Code\PhonebookCMPG323\obj\Debug\PhonebookCMPG323.csproj.AssemblyReference.cache
+C:\Users\25251309\Desktop\CMPG323 Source Code\PhonebookCMPG323\obj\Debug\PhonebookCMPG323.Form1.resources
+C:\Users\25251309\Desktop\CMPG323 Source Code\PhonebookCMPG323\obj\Debug\PhonebookCMPG323.Properties.Resources.resources
+C:\Users\25251309\Desktop\CMPG323 Source Code\PhonebookCMPG323\obj\Debug\PhonebookCMPG323.csproj.GenerateResource.cache
+C:\Users\25251309\Desktop\CMPG323 Source Code\PhonebookCMPG323\obj\Debug\PhonebookCMPG323.csproj.CoreCompileInputs.cache
+C:\Users\25251309\Desktop\CMPG323 Source Code\PhonebookCMPG323\obj\Debug\PhonebookCMPG323.exe
+C:\Users\25251309\Desktop\CMPG323 Source Code\PhonebookCMPG323\obj\Debug\PhonebookCMPG323.pdb
